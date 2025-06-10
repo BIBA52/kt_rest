@@ -1,26 +1,12 @@
-#  Online Restaurant Order App
+#  Ресторанчик
 
-Vue 3 web-приложение для онлайн-заказов блюд.
 
 
 
 👉 [Open on GitHub Pages](https://dropzed.github.io/kt_urch/)
 
-##   Stack
-
-- Vue 3 + Composition API
-- TypeScript
-- Pinia (управление корзиной)
-- Vite (билд и разработка)
-- GitHub Pages (хостинг)
-
 ##  Download
 
-```bash
 npm install
 npm run dev
 
-## Docker
-
-docker build -t vue-vite-dev .
-docker run -p 5173:5173 -v ${PWD}:/app -v /app/node_modules vue-vite-dev
