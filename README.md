@@ -3,7 +3,7 @@
 
 
 
-👉 [Open on GitHub Pages](https://dropzed.github.io/kt_urch/)
+👉 [Open on GitHub Pages](https://github.com/BIBA52/kt_rest)
 
 ##  Download
 
